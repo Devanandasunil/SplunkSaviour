@@ -1,0 +1,5 @@
+_time,fire_alert,panic_button,medical_help,wifi_down
+2025-07-01T10:00:00,1,false,0,false
+2025-07-01T10:05:00,0,true,0,false
+2025-07-01T10:10:00,0,false,1,false
+2025-07-01T10:15:00,0,false,0,true

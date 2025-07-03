@@ -1,0 +1,13 @@
+<dashboard>
+  <label>Emergency Monitor</label>
+  <row>
+    <panel>
+      <title>Live Emergency Events</title>
+      <table>
+        <search>
+          <query>index=main sourcetype=emergency_logs | table _time, fire_alert, panic_button, medical_help, wifi_down</query>
+        </search>
+      </table>
+    </panel>
+  </row>
+</dashboard>
