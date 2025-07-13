@@ -25,5 +25,5 @@ SplunkSaviour simulates emergency alerts like fire, medical issues, and network 
 - `README.md` – this file
 
 ## 👤 Author
-Deva  
+Devananda sunil 
 3rd Year BTech CSE – Karunya Institute of Technology  
